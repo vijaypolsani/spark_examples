@@ -58,11 +58,7 @@ import scala.Tuple2;
 public final class JavaKafkaWordCount {
 	private static final Logger log = LoggerFactory.getLogger(JavaKafkaWordCount.class);
 
-	private static final String zkQuorum = "sjc1pzoo06.sj.lithium.com:2181," +
-			"sjc1pzoo07.sj.lithium.com:2181," +
-			"sjc1pzoo08.sj.lithium.com:2181," +
-			"sjc1pzoo09.sj.lithium.com:2181," +
-			"sjc1pzoo10.sj.lithium.com:2181/kafka/sjc1-kafka-1a";
+	private static final String zkQuorum = "X";
 	private static final HashMap<String, Integer> topicMap = Maps.newHashMap();
 	private static final String groupId = "sparkStreming";
 	private static final int numThreads = 1;
