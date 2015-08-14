@@ -55,6 +55,7 @@ import scala.Tuple2;
  * zoo03 my-consumer-group topic1,topic2 1`
  */
 
+// MY COMMENT.
 public final class JavaKafkaWordCount {
 	private static final Logger log = LoggerFactory.getLogger(JavaKafkaWordCount.class);
 
