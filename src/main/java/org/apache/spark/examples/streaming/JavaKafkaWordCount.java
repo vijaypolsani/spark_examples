@@ -61,7 +61,7 @@ public final class JavaKafkaWordCount {
 
 	private static final String zkQuorum = "X";
 	private static final HashMap<String, Integer> topicMap = Maps.newHashMap();
-	private static final String groupId = "sparkStreming";
+	private static final String groupId = "sparkStreaming";
 	private static final int numThreads = 1;
 
 	static {

@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list id="111806fd-88b5-4c55-9c8d-1860d619d356" name="Default" comment="Initial Test" />
     <list default="true" id="6d2a9c47-0035-4ac2-b198-8c0f2af67802" name="Rejected commit: Default" comment="Initial Test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/JavaKafkaWordCount.java" afterPath="$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/JavaKafkaWordCount.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="20dc3008-4073-4c89-8c90-29ba5ebdba4c" name="Rejected commit: Rejected commit: Default" comment="Initial Test" />
     <ignored path="spark_examples.iws" />
@@ -31,20 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JavaKafkaWordCount.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JavaKafkaWordCount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/JavaKafkaWordCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1920">
-              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.49563318" vertical-offset="778" max-vertical-offset="1935">
+              <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocalKafkaStreamListener.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LocalKafkaStreamListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/LocalKafkaStreamListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19650654" vertical-offset="0" max-vertical-offset="458">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
@@ -678,7 +679,7 @@
       <created>1439518334290</created>
       <option name="number" value="Default" />
       <updated>1439518334290</updated>
-      <workItem from="1439518335666" duration="1959000" />
+      <workItem from="1439518335666" duration="2304000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Test">
       <created>1439518780786</created>
@@ -692,11 +693,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439520922209</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="My Comment">
+      <created>1439521542521</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1439521542521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1959000" />
+    <option name="totallyTimeSpent" value="2304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="842" extended-state="6" />
@@ -704,7 +711,7 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -782,7 +789,8 @@
     </option>
     <MESSAGE value="Initial Test" />
     <MESSAGE value="Second" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second" />
+    <MESSAGE value="My Comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Comment" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -820,18 +828,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/JavaKafkaWordCount.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/LocalKafkaStreamListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1920">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/LocalKafkaStreamListener.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/spark/examples/streaming/JavaKafkaWordCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19650654" vertical-offset="0" max-vertical-offset="458">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.49563318" vertical-offset="778" max-vertical-offset="1935">
+          <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
           <folding />
         </state>
       </provider>
